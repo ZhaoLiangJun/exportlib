@@ -16,4 +16,4 @@ exportlib：
                 ./exportlib -d : Export Development Library![Optional]     ： 导出开发库，用于编译程序。
                 ./exportlib -p Program : Export Runtime Library![Required]  ：导出运行库，用于执行程序。
 
-!(https://github.com/ZhaoLiangJun/exportlib/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-03%20123512.png))
+![示例](https://github.com/ZhaoLiangJun/exportlib/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-03%20123512.png))
