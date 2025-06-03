@@ -16,3 +16,4 @@ exportlib：
                 ./exportlib -d : Export Development Library![Optional]     ： 导出开发库，用于编译程序。
                 ./exportlib -p Program : Export Runtime Library![Required]  ：导出运行库，用于执行程序。
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](屏幕截图 2025-06-03 123512.png)
